@@ -1,0 +1,7 @@
+rootProject.name = "My Application"
+include ':app'
+include ':myfragementmanage'
+include ':myviewpage2'
+include ':myviewpagerfragment'
+include ':myservice'
+include ':myreceiver'
